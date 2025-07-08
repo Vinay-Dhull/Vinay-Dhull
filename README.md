@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Vinay Dhull  
 
 ## Aspiring Data Analyst  
-SQL • Python • Power BI  
+**SQL • Python • Power BI**
 
 Welcome to my GitHub!
 
@@ -11,9 +11,9 @@ Welcome to my GitHub!
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 
-### 📊 Data & Analytics
+### 📊 Data & Analytics  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0066A1?style=for-the-badge&logo=plotly&logoColor=white)
@@ -25,33 +25,37 @@ Welcome to my GitHub!
 
 ---
 
-### 💻 Web Tech
+### 💻 Web Tech  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🔍 What I Do:
-- 📊 Build insightful dashboards using **Power BI & Excel**
+## 🔍 What I Do
+
+- 📊 Build insightful dashboards using **Power BI & Excel**  
 - 💾 Clean & analyze data with **SQL**  
-- 🐍 Solve data problems using **Python (Pandas, NumPy, Matplotlib)**
-- 📁 Share real-world data projects on GitHub regularly
+- 🐍 Solve data problems using **Python (Pandas, NumPy, Matplotlib)**  
+- 📁 Share real-world data projects on GitHub regularly  
 
 ---
 
-## 📈 Featured Projects:
-- **[Sales Dashboard in Power BI](https://github.com/Vinay-Dhull/Sales_DashBoard_PowerBI)**
-- **[SQL Data Warehouse Project](https://github.com/Vinay-Dhull/Sql-data-warehouse-project)**
-- **[Smart Traffic Management (ML)](https://github.com/Vinay-Dhull/Smart_Traffic_managment)**
-- **[Patient Monitoring with ML](https://github.com/Vinay-Dhull/Patient-Monitoring)**
+## 📈 Featured Projects
+
+- 🔸 [**Sales Dashboard in Power BI**](https://github.com/Vinay-Dhull/Sales_DashBoard_PowerBI)  
+- 🔸 [**SQL Data Warehouse Project**](https://github.com/Vinay-Dhull/Sql-data-warehouse-project)  
+- 🔸 [**Smart Traffic Management (ML)**](https://github.com/Vinay-Dhull/Smart_Traffic_managment)  
+- 🔸 [**Patient Monitoring with ML**](https://github.com/Vinay-Dhull/Patient-Monitoring)  
 
 ---
 
-## 🔗 Let's Connect:
+## 🔗 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-dhull/)
- 
+
 ---
 
 > 💬 *“You bring the data, I’ll bring the insights.”*
+
 
