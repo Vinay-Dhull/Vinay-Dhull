@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi there! I'm Vinay Dhull  
 ### Aspiring Data Analyst | SQL • Python • Power BI  
 🌐 Passionate about solving real-world problems through data-driven insights.
