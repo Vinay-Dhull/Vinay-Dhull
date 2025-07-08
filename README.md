@@ -1,8 +1,5 @@
 # 👋 Hi there! I'm Vinay Dhull  
 
-## Aspiring Data Analyst  
-**SQL • Python • Power BI**
-
 Welcome to my GitHub!
 
 🧭 I started my journey with frontend development, but soon discovered a deeper passion for data.  
