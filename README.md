@@ -1,7 +1,11 @@
 # 👋 Hi there! I'm Vinay Dhull  
 ### Aspiring Data Analyst | SQL • Python • Power BI  
-🌐 Passionate about solving real-world problems through data-driven insights.
 
+Welcome to my GitHub!
+
+🧭 I started my journey with frontend development, but soon discovered a deeper passion for data.  
+🔍 Now, I'm focused on turning complex data into impactful insights using tools like SQL, Python, Excel, and Power BI.  
+🚀 Continuously learning, building, and sharing real-world data projects to solve meaningful problems.
 ---
 
 ## 🛠️ Tech Stack:
