@@ -40,9 +40,9 @@ Welcome to my GitHub!
 
 ## 📈 Featured Projects
 
-- 🔸 [**Sales Dashboard in Power BI**](https://github.com/Vinay-Dhull/Sales_DashBoard_PowerBI)  
+- 🔸 [**Job Market Analysis**](https://github.com/Vinay-Dhull/Job_Market_Analysis_Python)  
 - 🔸 [**SQL Data Warehouse Project**](https://github.com/Vinay-Dhull/Sql-data-warehouse-project)  
-- 🔸 [**Smart Traffic Management (ML)**](https://github.com/Vinay-Dhull/Smart_Traffic_managment)  
+- 🔸 [**Insurance Analysis Dashboard**](https://github.com/Vinay-Dhull/insurance-analytics-report)  
 - 🔸 [**Patient Monitoring with ML**](https://github.com/Vinay-Dhull/Patient-Monitoring)  
 
 ---
